@@ -1,6 +1,6 @@
 # Opening
 
-* Tipo: `lectura`
+* Tipo: `leitura`
 * Formato: `self-paced`
 * Duración: `10min`
 
